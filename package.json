@@ -10,7 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vercel/analytics": "^1.4.1",
     "dotenv": "^16.4.7",
+    "mongodb": "^6.13.0",
     "mongoose": "^8.9.6",
     "motion": "^11.13.5",
     "react": "^18.3.1",
